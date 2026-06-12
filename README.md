@@ -2,14 +2,14 @@
 
 > RayGAN is an unofficial name, let's call it RayGAN from now on
 
-![bevs](./imgs/img_BEVs.png)
+<p align="center"><img src="./imgs/img_BEVs.png" alt="BEVs" width="50%"></p>
 
 ## Overview
 
 Custom version of StarGAN (https://arxiv.org/abs/1711.09020) for performing realism enhancement of atmospheric dropout in point clouds.  
 Training is done using real point clouds converted to polar grid maps. Neither intensity nor labels are required.
 
-<img src="./imgs/img_StarGAN.png" alt="StarGAN" width="80%">
+<p align="center"><img src="./imgs/img_StarGAN.png" alt="StarGAN" width="80%"></p>
 
 ## Train Folder
 
@@ -61,25 +61,27 @@ Above, the synthetic point cloud. In the middle, the enhanced one. At the bottom
 
 ##### SUN enhancement
 
-Middle polar grid map is from NuScenes dataset.
+Polar grid map at the bottom is from NuScenes dataset.
 
-![bevs](./imgs/img_sunPGMs.png)
+<img src="./imgs/img_sunPGMs.png" alt="BEVs" width="60%">
 
 ##### RAIN enhancement
 
-Middle polar grid map is from NuScenes dataset.
+Polar grid map at the bottom is from NuScenes dataset.
 
-![bevs](./imgs/img_rainPGMs.png)
+<img src="./imgs/img_rainPGMs.png" alt="BEVs" width="60%">
+
 ##### FOG enhancement
 
-Middle polar grid map is from SeeingThroughFog dataset.
+Polar grid map at the bottom is from SeeingThroughFog dataset.
 
-![bevs](./imgs/img_fogPGMs.png)
+<img src="./imgs/img_fogPGMs.png" alt="BEVs" width="60%">
+
 ##### SNOW enhancement
 
-Middle polar grid map is from cadcd dataset.
+Polar grid map at the bottom is from cadcd dataset.
 
-![bevs](./imgs/img_snowPGMs.png)
+<img src="./imgs/img_snowPGMs.png" alt="BEVs" width="60%">
 
 ## License
 
