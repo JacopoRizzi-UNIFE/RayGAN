@@ -1,0 +1,11 @@
+file_name,sun,rain,fog,snow,synth
+sun_1.png,1,0,0,0,0
+sun_2.png,1,0,0,0,0
+rain_1.png,0,1,0,0,0
+rain_2.png,0,1,0,0,0
+fog_1.png,0,0,1,0,0
+fog_2.png,0,0,1,0,0
+snow_1.png,0,0,0,1,0
+snow_2.png,0,0,0,1,0
+synth_1.png,0,0,0,0,1
+synth_1.png,0,0,0,0,1
