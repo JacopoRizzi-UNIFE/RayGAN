@@ -83,6 +83,11 @@ Polar grid map at the bottom is from cadcd dataset.
 
 <img src="./imgs/img_snowPGMs.png" alt="BEVs" width="60%">
 
+## Reference
+
+If you use this work, please cite:
+> ... waiting for response...
+
 ## License
 
 This project is released under the MIT License.
